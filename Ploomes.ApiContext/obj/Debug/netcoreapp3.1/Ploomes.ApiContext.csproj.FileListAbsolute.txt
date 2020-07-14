@@ -1,0 +1,12 @@
+C:\Users\PC4\Desktop\Ploomes\Ploomes\Ploomes.ApiContext\bin\Debug\netcoreapp3.1\Ploomes.ApiContext.deps.json
+C:\Users\PC4\Desktop\Ploomes\Ploomes\Ploomes.ApiContext\bin\Debug\netcoreapp3.1\Ploomes.ApiContext.dll
+C:\Users\PC4\Desktop\Ploomes\Ploomes\Ploomes.ApiContext\obj\Debug\netcoreapp3.1\Ploomes.ApiContext.AssemblyInfoInputs.cache
+C:\Users\PC4\Desktop\Ploomes\Ploomes\Ploomes.ApiContext\obj\Debug\netcoreapp3.1\Ploomes.ApiContext.AssemblyInfo.cs
+C:\Users\PC4\Desktop\Ploomes\Ploomes\Ploomes.ApiContext\bin\Debug\netcoreapp3.1\Ploomes.ApiContext.runtimeconfig.json
+C:\Users\PC4\Desktop\Ploomes\Ploomes\Ploomes.ApiContext\bin\Debug\netcoreapp3.1\Ploomes.ApiContext.runtimeconfig.dev.json
+C:\Users\PC4\Desktop\Ploomes\Ploomes\Ploomes.ApiContext\obj\Debug\netcoreapp3.1\Ploomes.ApiContext.genruntimeconfig.cache
+C:\Users\PC4\Desktop\Ploomes\Ploomes\Ploomes.ApiContext\bin\Debug\netcoreapp3.1\Ploomes.ApiContext.pdb
+C:\Users\PC4\Desktop\Ploomes\Ploomes\Ploomes.ApiContext\obj\Debug\netcoreapp3.1\Ploomes.ApiContext.csproj.CoreCompileInputs.cache
+C:\Users\PC4\Desktop\Ploomes\Ploomes\Ploomes.ApiContext\obj\Debug\netcoreapp3.1\Ploomes.ApiContext.dll
+C:\Users\PC4\Desktop\Ploomes\Ploomes\Ploomes.ApiContext\obj\Debug\netcoreapp3.1\Ploomes.ApiContext.pdb
+C:\Users\PC4\Desktop\Ploomes\Ploomes\Ploomes.ApiContext\obj\Debug\netcoreapp3.1\Ploomes.ApiContext.csprojAssemblyReference.cache
